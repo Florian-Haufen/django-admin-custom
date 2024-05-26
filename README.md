@@ -1,6 +1,4 @@
-# django-admin-custom
-Custom django admin panel
-
+## django-admin-custom
 
 **What has already been implemented:**
 1. Custom UI
